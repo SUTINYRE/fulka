@@ -54,7 +54,7 @@ UICornerButton.CornerRadius = UDim.new(0.5, 0)
 UICornerButton.Parent = Button
 
 Button.MouseButton1Click:Connect(function()
-    setclipboard("https://roblox.et/share?code=f4d9f8208710d50bb5acb5cd10595e0f&type=Server")
+    setclipboard("https://www.roblox.et/share?code=21f82d7da099a7079913fd8d4dbeeed8&type=Server")
     Button.Text = "SUCCESS!"
     Button.BackgroundColor3 = Color3.fromRGB(100, 100, 100)
     Button.Active = false
